@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c6e96947-8076-41db-a971-e48e52c11fcf",
+  "export_job_id": "eefff9ff-bfa7-484b-a920-1bf3bf83dace",
   "id_short": 619489,
-  "published_at": "2026-04-17T19:46:48Z",
+  "published_at": "2026-04-22T07:45:57Z",
   "repo_name": "all-restaurants-in-charleston-north-charleston-metro-south-carolina-us-sample-619489",
   "sample_asset_name": "beamstation_619489_restaurants-us-charlestonnorthcharlestonsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/619489/beamstation_619489_restaurants-us-charlestonnorthcharlestonsc_SAMPLE_DIST.csv",
-  "sample_records": 180,
-  "sample_sha256": "213e80ba2373d2c9b174de1cec31c2c762a71053445669e98e8d572792b93269",
-  "sample_size_bytes": 664465,
-  "total_records": 1808
+  "sample_records": 225,
+  "sample_sha256": "34ca0045664533c6b9a8efb42476a26b00354571ebc837fb9aad07708ebfe9bb",
+  "sample_size_bytes": 812649,
+  "total_records": 2256
 }
